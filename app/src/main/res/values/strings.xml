@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SantianoNicolasLab4</string>
+    <string name="titlename">Rizal Park</string>
+    <string name="loc">Location: Roxas Blvd, Manila, Luzon 1000, Philippines</string>
+    <string name="dist">Distance from UST: 3.3KM</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+</resources>
